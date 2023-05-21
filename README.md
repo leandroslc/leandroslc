@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://leandroslc.vercel.app">
-    <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%8C%90%20Website&color=%23336c8b&style=for-the-badge" alt="Website" />
+    <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%8C%90%20Website&color=%23edeae5&style=for-the-badge" alt="Website" />
   </a>
   <a href="https://github.com/leandroslc">
     <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=%23181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
